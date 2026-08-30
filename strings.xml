@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tom Freestyle</string>
+    <string name="overlay_channel">Floating Panel</string>
+    <string name="overlay_notification">Tom Freestyle floating bubble is active</string>
+</resources>
